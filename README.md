@@ -39,4 +39,7 @@ In this section, we do several action to cleaning the data and consuming and ana
 6. Create simple visualization for furhter analysis
 
 For good and detail result of the analysis , you can used data visualization tools like Tableau, Power BI or Looker Studio.
-In this project, i used Tableau.
+In this project, I used Tableau for deeper analysis.
+From This Dashboard we can coclude that all campaign from all company have successful clicks and impressions. Make their acquitition cost increase. They have successed used channel needed for their campaign. see the detail from Dashoard Picture.
+![Marketing Campaign Performance](https://github.com/user-attachments/assets/c6408936-8d51-432c-9553-b5f60fbcb43c)
+
